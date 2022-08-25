@@ -1,0 +1,63 @@
+[
+  { 
+    "title": "Men Sneakers Nike Blazer Mid Suede", 
+    "price": 15999, 
+    "imageUrl": "/img/sneakers/1.jpg" 
+    },
+  { 
+    "title": "Men Sneakers Nike Air Max 270", 
+    "price": 12999, 
+    "imageUrl": "/img/sneakers/2.jpg" 
+    },
+  { 
+    "title": "Men Sneakers Nike Blazer Mid Suede", 
+    "price": 8499, 
+    "imageUrl": "/img/sneakers/3.jpg" 
+    },
+  {
+    
+    "title": "Men Sneakers Puma X Aka Boku Future Rider",
+    "price": 8999,
+    "imageUrl": "/img/sneakers/4.jpg"
+  },
+  { 
+   "title": "Men Sneakers Under Armour Curry 8", 
+    "price": 15199, 
+    "imageUrl": "/img/sneakers/5.jpg" 
+    },
+  { 
+    "title": "Men Sneakers Nike Kyrie 7", 
+    "price": 11299, 
+    "imageUrl": "/img/sneakers/6.jpg" 
+    },
+    { 
+     "title": "Men Sneakers Jordan Air Jordan 11", 
+     "price": 10799, 
+     "imageUrl": "/img/sneakers/7.jpg" 
+    },
+    { 
+     "title": "Men Sneakers Nike LeBron XVIII", 
+     "price": 16499, 
+     "imageUrl": "/img/sneakers/8.jpg" 
+    },
+    { 
+     "title": "Men Sneakers Nike Lebron XVIII Low", 
+     "price": 13999, 
+     "imageUrl": "/img/sneakers/9.jpg" 
+    },
+    { 
+     "title": "Men Sneakers Nike Blazer Mid Suede", 
+     "price": 15999, 
+     "imageUrl": "/img/sneakers/10.jpg" 
+    },
+    {
+     "title": "Men Sneakers Puma X Aka Boku Future Rider",
+     "price": 8999,
+     "imageUrl": "/img/sneakers/4.jpg"
+    },
+    { 
+     "title": "Men Sneakers Nike Kyrie Flytrap IV", 
+     "price": 11299, 
+     "imageUrl": "/img/sneakers/12.jpg" 
+    }
+]
