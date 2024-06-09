@@ -60,7 +60,7 @@ function Drawer({ onClose, onRemove, items = [] }) {
             />
             <h2>Cart is Empty</h2>
             <p className="opacity-6">Add at least one pair of sneakers to place an order</p>
-            <button className="greenButton">
+            <button onClick={onClose} className="greenButton">
               <img src="/img/arrow.svg" alt="Arrow" />
               Back
             </button>
